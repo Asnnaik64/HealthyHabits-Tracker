@@ -17,6 +17,7 @@ Frontend: https://healthyhabitstracker.netlify.app/
 
 ## Directory Structure
 HealthyHabits-Tracker/
+
 ├─ README.md
 ├─ index.html       
 ├─ styles.css      
@@ -49,12 +50,6 @@ List out the key features of your application.
 ## APIs Used
 Although this is a frontend-only project, it uses the following libraries and browser APIs:
  **Chart.js** – For interactive analytics and progress charts.
-**Bootstrap Icons** – For UI icons.
-**LocalStorage API** – For storing user data, habits, and preferences directly in the browser.
-
-## APIs Used
-Although this is a frontend-only project, it uses the following libraries and browser APIs:
-**Chart.js** – For interactive analytics and progress charts.
 **Bootstrap Icons** – For UI icons.
 **LocalStorage API** – For storing user data, habits, and preferences directly in the browser.
 
